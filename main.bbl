@@ -1,0 +1,133 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{anyt/global//global/global}
+  \entry{BaroniEvert}{inbook}{}
+    \name{author}{2}{}{%
+      {{hash=BM}{%
+         family={Baroni},
+         familyi={B\bibinitperiod},
+         given={Marco},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=ES}{%
+         family={Evert},
+         familyi={E\bibinitperiod},
+         given={Stefan},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \name{editor}{2}{}{%
+      {{hash=LA}{%
+         family={Lüdeling},
+         familyi={L\bibinitperiod},
+         given={Anke},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=KM}{%
+         family={Kytö},
+         familyi={K\bibinitperiod},
+         given={Merja},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {De Gruyter Mouton}%
+    }
+    \strng{namehash}{BMES1}
+    \strng{fullhash}{BMES1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{BE09}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{booktitle}{Volume 2}
+    \verb{doi}
+    \verb doi:10.1515/9783110213881.2.777
+    \endverb
+    \field{isbn}{9783110213881}
+    \field{pages}{777\bibrangedash 803}
+    \field{title}{36. Statistical methods for corpus exploitation}
+    \verb{url}
+    \verb https://doi.org/10.1515/9783110213881.2.777
+    \endverb
+    \list{location}{1}{%
+      {Berlin, New York}%
+    }
+    \field{year}{2009}
+  \endentry
+
+  \entry{Evert}{article}{}
+    \name{author}{1}{}{%
+      {{hash=ES}{%
+         family={Evert},
+         familyi={E\bibinitperiod},
+         given={Stefan},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ES1}
+    \strng{fullhash}{ES1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Eve06}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+    \verb{doi}
+    \verb doi:10.1515/zaa-2006-0208
+    \endverb
+    \field{number}{2}
+    \field{pages}{177\bibrangedash 190}
+    \field{title}{How Random is a Corpus? The Library Metaphor}
+    \verb{url}
+    \verb https://doi.org/10.1515/zaa-2006-0208
+    \endverb
+    \field{volume}{54}
+    \field{journaltitle}{Zeitschrift für Anglistik und Amerikanistik}
+    \field{year}{2006}
+  \endentry
+
+  \entry{stefanowitsch2020corpus}{book}{}
+    \name{author}{1}{}{%
+      {{hash=SA}{%
+         family={Stefanowitsch},
+         familyi={S\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Language Science Press}%
+    }
+    \strng{namehash}{SA1}
+    \strng{fullhash}{SA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Ste20}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{isbn}{9783961102242}
+    \field{series}{Textbooks in Language Sciences}
+    \field{title}{Corpus linguistics: A guide to the methodology}
+    \verb{url}
+    \verb https://books.google.de/books?id=3ZHeDwAAQBAJ
+    \endverb
+    \field{year}{2020}
+  \endentry
+\enddatalist
+\endinput

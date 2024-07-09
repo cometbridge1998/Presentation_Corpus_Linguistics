@@ -1,0 +1,17 @@
+\frametitle{Choosing the Institution}
+You can specify the institute template by passing it to package, i.e.,
+%
+\begin{center}
+\begin{verbatim}
+\usepackage[institute=<option>]{styles/beamerthemefau},
+\end{verbatim}
+\end{center}
+%
+where you have the following options,
+\begin{itemize}
+\item FAU
+\item RW
+\item Med
+\item Nat
+\item Tech
+\end{itemize}

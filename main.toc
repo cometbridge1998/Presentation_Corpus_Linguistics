@@ -1,0 +1,9 @@
+\babel@toc {english}{}\relax 
+\beamer@sectionintoc {1}{Topic Orientation}{2}{0}{1}
+\beamer@subsectionintoc {1}{1}{Seminar Review}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{Procedures of a Corpus Linguistics research}{4}{0}{1}
+\beamer@subsectionintoc {1}{3}{Topic key word}{5}{0}{1}
+\beamer@sectionintoc {2}{Randomness and Non-Randomness}{6}{0}{2}
+\beamer@subsectionintoc {2}{1}{Source of randomness}{7}{0}{2}
+\beamer@subsectionintoc {2}{2}{Sources of non-randomness}{9}{0}{2}
+\beamer@sectionintoc {3}{Conclusion}{11}{0}{3}
